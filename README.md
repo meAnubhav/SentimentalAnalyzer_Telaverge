@@ -6,10 +6,13 @@ Looking ahead, the Sentimental Analyzer project lays the groundwork for further 
 ## References
 
 •	https://www.datacamp.com/tutorial/text-analytics-beginners-nltk
+
 •	https://towardsdatascience.com/social-media-sentiment-analysis-49b395771197
 
 ## Attachments
 
 •	Meta for Developers: https://developers.facebook.com/tools/explorer/
+
 •	Brand Page (Programming World): https://www.facebook.com/people/Programming-world/61553337455458/
+
 •	GitHub Repo: https://github.com/meAnubhav/SentimentalAnalyzer_Telaverge
