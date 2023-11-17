@@ -51,8 +51,8 @@ def save_comments_to_csv(comments, csv_filename):
             })
 
 if __name__ == '__main__':
-    page_id = '161448653721883'
-    access_token = 'EAAJVcEmdyf0BOxn12FCQoGiFNaWYRJZC9mipuh7ZC39HBHv4w2ZACpJA89z9imPfyWyF1kZCd8YlOanmrKJgiOznUXVZCaAVprKjDYqAZCMtMwKqj9pUnJBOLkhRiPmEs8AjKnxFKNbYO7qTnrEEdJ0Vuz3ITvZAmdKNVZAZBtNALBQJnmgG1ZCkN3XZB9pltgGZBRoDRI84Oh4I4XwUIzcX1BuZBRfV4Fcw1b2OF'
+    page_id = 'Brands fb page id'
+    access_token = 'API Access Token'
     csv_filename = 'fb_comment.csv'
 
     comments = get_facebook_comments(page_id, access_token)
@@ -106,9 +106,9 @@ mail_mssge=str(m_message[:5:])
 from email.message import EmailMessage
 
 # Define email sender and receiver
-email_sender = 'anubhavmishra444068@gmail.com'
-email_password = 'rzba kqbk nsrx tams'
-email_receiver = 'm.anubhavv@gmail.com'
+email_sender = 'sender email'
+email_password = 'sender email password'
+email_receiver = 'receiver email'
 
 # Set the subject and body of the email
 subject = 'Sentimental Score Analyzer!'
