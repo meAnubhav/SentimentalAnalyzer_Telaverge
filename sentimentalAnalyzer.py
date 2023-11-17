@@ -69,6 +69,8 @@ df = pd.read_csv(file_path)
 
 # Select the desired column
 selected_column = df[desired_column].tolist()
+
+# Base sentimental score of site
 sscore=10
 m_message=[]
 score2=''
